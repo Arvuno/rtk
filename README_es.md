@@ -48,7 +48,7 @@ rtk filtra y comprime las salidas de comandos antes de que lleguen al contexto d
 
 ## Instalacion
 
-### Homebrew (recomendado)
+### Homebrew (recommendado)
 
 ```bash
 brew install rtk
@@ -76,7 +76,7 @@ rtk gain        # Debe mostrar estadisticas de ahorro
 ## Inicio rapido
 
 ```bash
-# 1. Instalar hook para Claude Code (recomendado)
+# 1. Instalar hook para Claude Code (recommendado)
 rtk init --global
 
 # 2. Reiniciar Claude Code, luego probar
