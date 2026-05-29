@@ -488,3 +488,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Disclaimer
 
 See [DISCLAIMER.md](DISCLAIMER.md).
+
+- Documentation updated for clarity
